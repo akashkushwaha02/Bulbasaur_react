@@ -1,17 +1,25 @@
 import React from "react";
 import Navbar from "../navbar/navbar";
+import Avatar from "../../../../assets/img/avatar.png";
+import { Link } from "react-router-dom";
+import Profile from "../profile/profile";
 
 function Aside() {
   return (
     <div class="aside">
       <div className="aside-top">
         <div className="icon">
-          <img src="../../../../assets/img/avatar.png" />
+          <img src={Avatar} alt="" />
         </div>
         <Navbar />
       </div>
       <div className="aside-bottom">
-        <div className=""></div>
+        <div className="profile-img">
+          <img src={Avatar} alt="" />
+        </div>
+        <div className="MyAccout">
+          <Profile />
+        </div>
       </div>
     </div>
   );

@@ -1,4 +1,30 @@
 .aside {
   width: 20%;
-  border: 2px solid blue;
+  background-color: #3d4550;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  .aside-top {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    .icon {
+      img {
+        border-radius: 100%;
+        width: 50%;
+      }
+    }
+  }
+
+  .aside-bottom {
+    display: flex;
+    .profile-img {
+      img {
+        border-radius: 100%;
+        width: 2rem;
+      }
+    }
+  }
 }
