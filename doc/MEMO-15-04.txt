@@ -1,0 +1,54 @@
+What we are going to do it in project doing?
+understant requirement.
+Epic for every person.
+	subtask
+peer code review.
+DSM for 15 minutes everyday.
+conneting with ankit for 1hour.
+quality.
+javascript tech.
+React learning for yourself.
+unit test cases(prepared before coding)
+Technical thing will always comes as task.
+
+
+
+understant requirement
+Epic for every person.
+	subtask	
+Design(flow)
+	also test your code from your end.
+	
+
+steps:-
+find out software(existing software)
+discuss the requirement for upcoming week.
+
+
+pre-reqisitues:-(requirement gathering)
+how project management work.
+how the current project work.
+
+
+craete JIRA using free gmail account also see some youtube videos.
+Try to learn 
+
+
+Software:-
+github
+jira
+draw.io
+
+
+confluence:-
+
+
+what we should we do in:-
+Team buiilding
+helping each other
+Understanding business & requirements
+Create a flow or design
+Maintain everything in documents
+help each other in communication
+
+ 

@@ -1,0 +1,26 @@
+authentication
+	login(social login)
+	logout
+	forgot password
+	reset password
+	
+project
+	list(filter)
+	details
+tickets
+	Categories
+	states
+	ticket list with filter
+	ticketd deta
+team
+	list 
+	selected team list
+	details
+
+
+
+
+Frontend priority
+In prioity wwise 
+task first 
+then team 

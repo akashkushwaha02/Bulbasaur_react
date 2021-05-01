@@ -1,0 +1,7 @@
+list down confluence
+Based on frontend come data as backend.
+how many api?
+how crud operations?
+how manage session?
+
+

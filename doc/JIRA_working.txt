@@ -1,0 +1,134 @@
+JIRA used in Software Development contains
+
+Git Repository
+Feature flagging 
+Issues management	
+Project backlog
+Roadmaps
+
+Team use JIRA for project board, issue, reporting, customizable permissions, etc.
+
+
+
+Basic steps:-
+Step 1:Create a Project 
+Step 2:Pick a template
+		1.Scrum - The main agenda of Sprint planning is to define the scope of delivery and how to accomplish that work.
+		2.KANBAN - like we did while creating one project.
+		3.Bug tracking - listing of all the activity on a single page.
+Step 3:Set up your column
+		project types
+			1.Team (Here we can add things however we want)
+			2.Company(just like we are experiencing in vidhya classes)
+Step 4:Create an Issue(Scrum and KANBAN)
+		1.Kind of defining Story,bugs,issue or feature
+		2. create RoadMaps
+Step 5:Invite your team
+	
+		
+		Scrum->sprint, sprint planning( define the scope of delivery and how to accomplish that work in what period of time.),
+				daily scrum calls, daily report, Roles, product backlog
+				
+				4 ceremonies of scrum:-
+					Sprint Planning
+					Sprint Demo
+					Daily Standup
+					Retrospective
+		
+		KANBAN-> See each other work in KANBAN board, KANBAN cards,WIP limit
+				left to right meaning if we have bandwidth on right side then only we move task from left.
+				Workflow or categories like pending, started, queue, completed etc.
+				KANBAN is created to help team flow from backlog task to done.
+				
+				KANBAN card:- Title, Desc, owner, due date etc. also it will have history like moving from one state to another and another person's commit in it. 
+				also Card size should be medium-sized in the manner of issues.
+				Role not existed here 
+					
+					4 components of Kanban:-
+						List of work (or stories)
+						Columns or lanes
+						Work in Progress Limits (WIP)
+						Continuous Releases
+
+				
+	
+From User End:-
+
+There is a header using which:-
+	1.I can see my last work or activity( redirect to issue inside KANBAN board)
+	2.My projects(will redirect to KANBAN board)
+	3.Filter(Very important and there is a page dedicated for it i.e., issue navigator)
+	4.Dashboard(This contains cards and user manual)
+	5.People(project page)
+	6.Apps(Not decided what will i do here. Maybe put something like plugin doc or Saas here)
+	7.Create Issue	
+		7.1 Only create some testing-related projects as I am part of the company module.
+			Here I can select Bugs, story, task, Epic... Import items functionality, Configure fields, summary portion. Also, drag and drop of attachment.
+		
+	8.Search Panel (Search all issue and task independently)
+	9. Nav panel and profile logo
+
+Rest of the thing in homepage:-
+	Left navigation(each one has its page):-
+		project 
+		Report 
+		issue( issue navigator page and all the)
+		Roadmap(how much time)
+		Components
+		Code
+		Relases
+		
+		
+		
+	Right navigration:-
+		project right page:-
+			state for the tasks
+			filter
+			search
+			recent issue
+			my issue
+			share
+			
+			
+		
+From Admin end:	
+	JIRA Admin has access to and can customize
+	-Workflow
+	-Configuration
+	-Schemes
+	-Users
+	-Screen 
+	-Roles & Permissions
+	-Setting
+
+Header:
+	 userName: plans or softwares 
+	 Directory:- moves to G suit page 
+	 product and overviews: same like give some overvies for products 
+	 security:- IP allowing, data residency, audit log-- important , policies, password reset for groups (expire date),verify domains(ankit bhai explaination)
+	 Billing:-
+	 setting:- details,adminstration, 
+	 profile:- common things, products, connected apps, account prefer
+
+Left Panel:- 
+	User management:
+		user  :- also a page to give access user to invite other user.
+		group  :- give access to groups :- multiple group and admin permission]
+					can created group and also description.
+		acesse request : admin properties to other group member also.
+		Jira service management:- client management kind of 
+		
+	Site settings:- 
+		site access:	you can allow existing users to invite others and specify whether users can join themselves.
+		product access:-  we can work in many groups... ex:- we can work on frontend part and backend separately
+		G Suite:- sync things in 4 hours while working offline.
+		Emoji: //not necessary
+		storage:- for clouds
+	
+	Subscription & Billing:-
+		Billing:- will use documentaion tool
+		manage subscription:-=
+		discover appplication:- Application which are present in jira. Connected app.(github,gitlab)
+	
+	Application setting:-
+		kind of general settings.

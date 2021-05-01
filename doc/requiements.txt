@@ -1,0 +1,46 @@
+Project Tracking Tool(Pegasis,Phoenix,Knight, Balbasor,Pikachu):-
+To track projects with each other involvement and also to integrate application using some standards.
+
+Requirement for Project Tracking tool:-	
+	1.Project description, Time duration, team size required and their skills also team type, skills used in the creation of project (optional)	
+	
+	2.Project properly Divide by its size.		
+		a.if it's big then mark it. (Epic- init shortname of initialize)		
+			1.if it is some issue related to the previous project add this in the previous one and make it an issue with the project name. (task)
+			2.bugs tracking with the project. (bug)
+			3.task re-assign.
+		b if any init/task/bugs will create/resolve we will create timeline documentation for it before submission.(can also be created parallel kind of application documentation)
+	3.Project/task/subtask assigned using skills-which mentioned on teammates profile or manually. (kind of automated thing)
+	4.Daily task report. (add label what work has been performed or what else you need to perform this task)	
+	5.Started, minimum acceptance criteria, pending for review, in the queue, completed(which is done by admin), unassign.(related with timeline doc)
+		a.Duplicates
+		b.Closed()
+		c.Backlog(when the requirement is in the queue for a long time)		
+	6.Can check the work of user.
+	7.Connected using maps and also status of other's task/issue.
+	8.Can see user his issues as well as others.(filter)and I can also contribute in someone else in need.(will add his username)
+	9.Can mark priorities(kind of task priorities)
+	10.Need Log and update them for the changes or any activity made by user.(Audit Log)
+
+
+	+More points to discuss	
+	+1. Project Type
+	+5. pending(suggested by Gautami from Rally)
+	+11.Team status for the project(it will complete in duration) + TEAM PLANNING(will use it to maintain backlog) + Development Effort
+	+12.Notification(email or text)
+	+13.Snapshot feature while doing project in 10 minutes(inspired from upwork)
+	+ 	Plugin in vscode for issue update  (https://www.freecodecamp.org/news/making-vscode-extension/)
+	
+
+Rename
+Epic - init
+Kanban - Arsenal		
+
+	
+Incremental Approach
+1.Requirement
+2.Wireframes(Figma or Draw.io)
+3.Pseudo Code
+4.Coding part
+
+

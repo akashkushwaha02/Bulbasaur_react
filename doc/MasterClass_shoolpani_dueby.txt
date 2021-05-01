@@ -1,0 +1,22 @@
+service and product(cap)
+fin startup
+how many job opening -- to decide which language to choose
+decide a domain(web development) and what frameworks
+
+Most of the high profile jobs in following steps:-
+During your interview first is langaueg 
+Design pattern and where it is used
+then frameworks
+
+what  type of company should we target
+
+Captive:- own by group and has  own client, project will be your baby(prefference)
+
+Service:- server other, vary large set of rules, alwasy jugling between one to other
+
+most intersting works in startup:- bcoz you learn how  to face changes.(always target a startup which is not too young)
+
+As a developer start asking things with yourself
+
+when you are writting a problem, you should write a code which will have minimal codes and not too modeled also de coupled.
+

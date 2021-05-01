@@ -1,0 +1,97 @@
+Project tracking tool for Vidhya Class
+1.create project by owner
+2.assigned team and developer
+3.create issue
+4.track their progress
+5.remove bugs
+
+
+
+add user(admin)
+create project (unique key to project)
+anyuser can create a task 
+link epics
+versiosn of applciation
+
+
+
+Version one:-
+1.admin dashboard 
+	add user
+	craete project 
+	stages ... define by admin 
+	
+
+people should be able to update the task
+add there update 
+
+
+Version one:-
+Admin dashboard 
+	1.Signup, login and logout
+	2.Add user
+	3.Create project 
+	4.Stages(Backlog,Started,pending,completed and pending of review,Done) ... Define by admin 
+	
+User dashboard
+	1.Signup, login and logout
+	2.User should be able to see the task assigned to him and other user
+	3.Can update in their assigned thing
+	4.Add there update 
+
+
+
+
+Bulbasaur version-1 
+
+User:-
+1. Login as a User.
+2. dashboard with Project 
+2. create Task
+3. Show Card 
+4. Card move permission, can add more details and edit card details and also complete the task.
+5. title,comment, add description and attach Snapshot, label for username of colleage(helper), Priority, created by
+   
+
+Admin :-
+1. Login only admin user.
+2. CRUD operation for user.
+3. CRUD operation for Team.
+4. Create and give projects.  
+
+
+
+
+Tommorw check what are you going to do tommorrow 
+
+
+
+architecture
+no boiler plate 
+akash and aman will work 
+
+
+
+1.What you are developing (architecture)
+2.
+
+Module 1:- frontend
+Module 2:- 
+
+separate epics:--- vidhyaclass
+
+tools and softwares you will use.
+
+
+
+
+There will be some unique basic 
+
+
+
+Admin:
+	Dasboard.html
+	userCreation.html
+	assignTeam.html
+	profile.html
+	

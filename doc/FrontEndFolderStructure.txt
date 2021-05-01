@@ -1,0 +1,68 @@
+Font-family:- Roboto
+primary color:- 3D4550
+secondary color:- 65C5C3
+
+src
+	assets
+		img		
+		static 
+	components
+		admin-dashboard
+			Adapter					
+					adaptor.js	(getter/setter API)			
+					
+			Dashboard
+					main-section.js
+					main-section.css
+			user-managment
+					user.js 
+					user.css										
+			project-management
+					project.js
+					project.css
+			team-management
+					team.js
+					team.css
+			category-management
+					category.js
+					category.css
+			ticket-management
+					ticket.js
+					ticket.css
+			state-management
+					state.js
+					state.css
+			
+			components
+				core
+					header.js			
+					Asidebar.js					
+					footer.js
+					header.css
+					footer.css
+					Asidebar.css
+				Pagination
+				Buttons
+				Search
+				Icons
+				Table 
+					sorting filter					
+				Filter	
+				Dropdown
+					Team
+					category
+					status					
+				Cards
+				Profile
+				Form
+					ticket form for each form
+				Loader
+					loader.js
+	
+App.css
+App.scss 
+
+
+
+
+

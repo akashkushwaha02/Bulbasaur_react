@@ -1,0 +1,27 @@
+created bulbasur project in JIRA 
+Target for today is to create all the epics
+First is to create UI part and review with all the teammate.
+
+Created Epics
+1. Design backend system for platform v1.0
+2. Assign to person
+3. label:- 1.0
+
+Description:-
+
+
+while login admin or user
+	1.identity access menagement
+
+user:-
+	Dashboard
+	create ticket(task)
+		get ticket
+		create ticket
+		update ticket
+	
+	stages:- 
+	
+	
+
+
