@@ -32,14 +32,21 @@
 
 .navbar .nav-items {
   line-height: 3rem;
+  color: white;
 }
 .navbar .nav-items .nav-item {
   color: white;
+  text-decoration: none;
 }
 
 * {
   margin: 0;
   padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
 
 /*# sourceMappingURL=App.css.map */
