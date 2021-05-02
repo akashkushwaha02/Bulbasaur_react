@@ -7,6 +7,7 @@ import { Team } from "../Team-management/team";
 import Ticket from "../Ticket-management/ticket";
 import User from "../User-management/user";
 import NoMatch from "../Components/NoMatch/NoMatch";
+import CreateForm from "../Components/forms/CreateForm";
 
 function Home() {
   return (
