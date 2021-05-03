@@ -17,6 +17,8 @@ function UserNav() {
       <h1>
         <Link to="/user/delete" exact style={{ color: "black" }}>
           delete Link
+          {/**
+           * no need fof thsi we will implement alert/button  */}
         </Link>
       </h1>
     </div>
