@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "../navbar/navbar";
-import Avatar from "../../../../assets/img/avatar.png";
+import Navbar from "../NavbarView/navbar";
+import Avatar from "../../Assets/img/avatar.png";
 import { Link } from "react-router-dom";
 import Profile from "../profile/profile";
 

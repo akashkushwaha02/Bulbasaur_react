@@ -1,13 +1,12 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import Aside from "../Components/core/aside";
-import Main from "../Components/core/main";
+import Aside from "../../../Components/core/aside";
+import Main from "../../../Components/core/main";
 import Project from "../Project-mangement/project";
 import { Team } from "../Team-management/team";
 import Ticket from "../Ticket-management/ticket";
 import User from "../User-management/user";
-import NoMatch from "../Components/NoMatch/NoMatch";
-import CreateForm from "../Components/forms/CreateForm";
+import NoMatch from "../../../Components/NoMatch/NoMatch";
 
 function Home() {
   return (
