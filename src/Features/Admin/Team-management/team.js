@@ -1,5 +1,12 @@
 import React from "react";
+import TeamNav from "./TeamNav";
 
-export function Team() {
-  return <div className="team">team page</div>;
-}
+const Team = () => {
+  return (
+    <div className="team">
+      <TeamNav />
+    </div>
+  );
+};
+
+export default Team;

@@ -1,14 +1,21 @@
 import React from "react";
 import { Switch, Route, Link } from "react-router-dom";
-import CreateForm from "../../../Components/FormView/CreateForm";
-import UserNav from "./userNav";
+import CoverForm from "../../../Components/cards/CoverCard";
+
+import UserNav from "./UserNav";
 
 function User() {
   return (
     <div className="user">
+      {/**
+       * TODO:- will change the router here
+       *
+       * <CreateForm />
+       */}
+
       <UserNav />
 
-      <CreateForm />
+      {/*<CoverForm />*/}
     </div>
   );
 }

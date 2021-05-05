@@ -1,6 +1,10 @@
-@import "./components/admin-dashboard/Dashboard/home.scss";
-@import "./components/admin-dashboard/Components/core/aside.scss";
-@import "./components/admin-dashboard/Components/navbar/navbar.scss";
+@import "./Features/Admin/Dashboard/home.scss";
+@import "./Features/Admin/User-management/user.scss";
+@import "./Features/Admin/Team-management/team.scss";
+@import "./Components/core/aside.scss";
+@import "./Components/NavbarView/navbar.scss";
+@import "./Components/cards/coverCard.scss";
+@import "./Components/FormView/forms.scss";
 
 * {
   margin: 0;
