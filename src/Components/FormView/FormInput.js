@@ -1,18 +1,23 @@
 import React from "react";
 
-function FormInput({ name, type, required, placeholder, className, label }) {
+const FormInput = (props) => {
+  const { label, name, type, required, placeholder, className } = props.input;
   return (
     <div className="form-group">
-      <label>{label}</label>
-      <input
-        name={name}
-        type={type}
-        required={required}
-        placeholder={placeholder}
-        className={className}
-      />
+      <div className="form-label">
+        <label>{label}</label>
+      </div>
+      <div className="form-input">
+        <input
+          name={name}
+          type={type}
+          required={required}
+          placeholder={placeholder}
+          className={className}
+        />
+      </div>
     </div>
   );
-}
+};
 
 export default FormInput;

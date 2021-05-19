@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,MAAM;EACrB,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,IAAI,EAAE,KAAK;EACX,GAAG,EAAE,IAAI;EAET,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,OAAkB;CACrC",
+    "sources": [
+        "coverCard.scss"
+    ],
+    "names": [],
+    "file": "coverCard.css"
+}

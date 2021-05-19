@@ -2,11 +2,10 @@ import React from "react";
 import Navbar from "../NavbarView/navbar";
 import Avatar from "../../Assets/img/avatar.png";
 import { Link } from "react-router-dom";
-import Profile from "../profile/profile";
 
 function Aside() {
   return (
-    <div class="aside">
+    <div className="aside">
       <div className="aside-top">
         <div className="icon">
           <img src={Avatar} alt="" />
@@ -18,7 +17,9 @@ function Aside() {
           <img src={Avatar} alt="" />
         </div>
         <div className="MyAccout">
-          <Profile />
+          <Link to="/profile" exact>
+            My Account
+          </Link>
         </div>
       </div>
     </div>

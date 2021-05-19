@@ -1,0 +1,10 @@
+.navbar .nav-items {
+  line-height: 3rem;
+  color: white;
+}
+
+.navbar .nav-items .nav-item {
+  color: white;
+  text-decoration: none;
+}
+/*# sourceMappingURL=navbar.css.map */

@@ -9,18 +9,17 @@ function UserNav() {
           Create Link
         </Link>
       </h1>
-      <h1>
+      {/* <h1>
         <Link to="/user/edit" exact style={{ color: "black" }}>
           Edit Link
         </Link>
       </h1>
       <h1>
         <Link to="/user/delete" exact style={{ color: "black" }}>
-          delete Link
-          {/**
-           * no need fof thsi we will implement alert/button  */}
-        </Link>
-      </h1>
+          delete Button
+          
+        </Link> 
+      </h1>*/}
     </div>
   );
 }

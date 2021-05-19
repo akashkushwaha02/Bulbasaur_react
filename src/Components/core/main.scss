@@ -1,0 +1,13 @@
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: column; 
+  .mainTable {
+    display: flex;
+    flex-direction: column;
+    padding: 4vw;
+  }  
+  .m-top{
+    margin-top: 32px;
+  }
+}

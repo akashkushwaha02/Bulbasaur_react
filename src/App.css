@@ -53,6 +53,40 @@
   text-decoration: none;
 }
 
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-content: flex-end;
+  width: 100%;
+}
+.form-container .form-group {
+  display: flex;
+  margin-top: 5px;
+}
+.form-container .form-group label {
+  font-size: 26px;
+  display: flex;
+  justify-content: flex-end;
+  width: 35vh;
+}
+.form-container .form-group input {
+  padding: 5px;
+  border-radius: 3px;
+  border-color: black;
+}
+.form-container .btn {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+.form-container .btn button {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+  border: none;
+}
+
 .coverCard {
   display: flex;
   align-content: center;
@@ -65,19 +99,31 @@
   background-color: #f1f1ff;
 }
 
-.form-container {
-  display: flex;
-  justify-content: center;
-  align-content: flex-end;
+.main {
   width: 100%;
+  display: flex;
+  flex-direction: column;
 }
-.form-container .form-group label {
-  font-size: 26px;
+.main .mainTable {
+  display: flex;
+  flex-direction: column;
+  padding: 4vw;
 }
-.form-container .form-group input {
-  padding: 5px;
-  border-radius: 3px;
-  border-color: black;
+.main .m-top {
+  margin-top: 32px;
+}
+
+.textView {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card {
+  height: 100px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 * {
@@ -88,6 +134,20 @@
 a {
   text-decoration: none;
   color: white;
+}
+
+.f-dir-row-space-around {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.d-flex {
+  display: flex;
+}
+.d-flex .d-flex-center-space-bw {
+  align-items: center;
+  justify-content: space-between;
 }
 
 /*# sourceMappingURL=App.css.map */

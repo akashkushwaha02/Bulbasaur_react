@@ -1,0 +1,22 @@
+.form-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+  width: 100%;
+}
+
+.form-container .form-group label {
+  font-size: 26px;
+}
+
+.form-container .form-group input {
+  padding: 5px;
+  border-radius: 3px;
+  border-color: black;
+}
+/*# sourceMappingURL=forms.css.map */

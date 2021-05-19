@@ -1,9 +1,11 @@
 import React from "react";
 
-const Card = () => {
+const Card = ({backgroundColor}) => {
   return (
-    <div>
-      <h1>CARD FOR</h1>
+    <div className="card" style={{background: backgroundColor}}>
+      <div>
+        <h1>CARD FOR Main </h1>
+      </div>
     </div>
   );
 };

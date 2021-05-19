@@ -1,5 +1,5 @@
 import "./App.css";
-import Home from "./Features/Admin/Dashboard/Home";
+import Home from "./Features/Admin/Dashboard";
 
 function App() {
   return (

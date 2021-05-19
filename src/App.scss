@@ -3,8 +3,10 @@
 @import "./Features/Admin/Team-management/team.scss";
 @import "./Components/core/aside.scss";
 @import "./Components/NavbarView/navbar.scss";
-@import "./Components/cards/coverCard.scss";
 @import "./Components/FormView/forms.scss";
+@import "./Components/core/main.scss";
+@import "./Components/TextView/text.scss";
+@import "./Components/cards/card.scss";
 
 * {
   margin: 0;
@@ -14,4 +16,18 @@
 a {
   text-decoration: none;
   color: white;
+}
+
+.f-dir-row-space-around {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.d-flex {
+  display: flex;
+  .d-flex-center-space-bw {
+    align-items: center;
+    justify-content: space-between;
+  }
 }
